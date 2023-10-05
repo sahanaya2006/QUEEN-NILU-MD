@@ -1,6 +1,6 @@
 /*
-WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
+WHATSAPP BOT BY Sahan Maduwantha 
+WHATSAPP - 94701633484
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94701633484'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Sahan_X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -43,9 +43,9 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
-global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE = true    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Sahan 🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
@@ -63,9 +63,9 @@ global.MAX_SIZE = '400' // Bot Uloading Max size
 
 global.ANTI_BAD = 'true' // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true
 
-global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
+global.ANTI_LINK = 'true' //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
