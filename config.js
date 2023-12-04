@@ -23,7 +23,7 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94701633484'
+global.OWNER_NUMBER = '94760310266'
 
 global.OWNER_NAME = 'Sahan_X'
 
